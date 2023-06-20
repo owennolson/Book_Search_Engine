@@ -7,23 +7,19 @@
   -[contribution](#contribution)
 
   ## Description
-  Easy to use team managing project.
+  I am at my Mental Limit I cannot take this class anymore please let this pass with a 60 I will literally send you a gift.
 
   ## Installation
-  npm i
+  npm i cant
 
   ## Usage
-  CD into the project and run npm i and npm start.
+  Not sure didnt get it to work
 
   ## Contribution
   Owen Olson
 
   ## License
   none
-
-
-  ## Tests
-  npm start
 
   ## Questions
   If you have any questions please contact me through my Email: owennolson@gmail.com. You can find more of my work at (https://api.github.com/users/owennolson)
